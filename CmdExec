@@ -5,3 +5,4 @@ git add -A	->Add all new and changed files to the staging area
 
 git commit -m "[commit message]"	->Commit changes
 git pull	->Update local repository to the newest commit
+git push	Push changes to remote repository (remembered branch)
